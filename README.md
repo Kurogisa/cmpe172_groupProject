@@ -12,7 +12,7 @@ Team Members:
 Project Introduction (what the application does):
 
 Sample Demo Screenshots:
-
+![](site_screenshots/1_landingPage.png)
 Folder structure as above:
 
 Instructions on how to run the project locally:
